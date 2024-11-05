@@ -17,3 +17,7 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+POPQUIZ:
+  label: Pop Quiz
+  permalink: /POP-QUIZ
+  description: Pop Quiz description
